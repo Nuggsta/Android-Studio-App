@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">group_project_one</string>
+    <string name="find_beers">Search Beers!</string>
+    <string name="brands">" "</string>
+    <string-array name="beer_colors">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Dark</item>
+        <item>Brown</item>
+    </string-array>
+</resources>
